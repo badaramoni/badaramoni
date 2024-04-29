@@ -35,6 +35,9 @@ Hello there! 👋 I'm Avinash, a seasoned Android Developer with over 8 years of
 
 ## 🌟 Personal Projects
 
+- **Deep Learning:** Utilized in projects such as StableDiffusionText2Img, GPU-Accelerated-Fashion-Classification-with-Non-Linear-Models, Caltech256-Architectures-CNN, and convolution-neural-network.
+- **Python Libraries:** Utilized PyTorch and Jupyter Notebook extensively in deep learning projects.
+
 ### Myhiremate
 - **Description:** Revolutionizing the job and visa acquisition process for foreign students and professionals in the US.
 - **Duration:** 9 months
