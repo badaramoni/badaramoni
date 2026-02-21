@@ -3,6 +3,9 @@
 **AI/ML Engineer | Custom LLM Architect | Android Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-badaramoni-181717?style=flat&logo=github)](https://github.com/badaramoni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-avinashbadaramoni-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/avinashbadaramoni/)
+[![Twitter](https://img.shields.io/badge/Twitter-@ABadaramoni-1DA1F2?style=flat&logo=twitter)](https://x.com/ABadaramoni)
+[![Reddit](https://img.shields.io/badge/Reddit-Murky--Sign37-FF4500?style=flat&logo=reddit)](https://www.reddit.com/user/Murky-Sign37/)
 [![Email](https://img.shields.io/badge/Email-badaramoni.avinash%40gmail.com-D14836?style=flat&logo=gmail)](mailto:badaramoni.avinash@gmail.com)
 
 ---
@@ -229,9 +232,9 @@ Built a **continuum field-theoretic molecular dynamics engine** that simulates *
 
 ## 📫 Get In Touch
 
-- 📧 Email: badaramoni.avinash@gmail.com
-- 💼 GitHub: [@badaramoni](https://github.com/badaramoni)
-- 📍 Location: India
+📍 **Location:** India
+
+*All social links available in the badges above*
 
 ---
 
